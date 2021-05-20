@@ -18,10 +18,10 @@ CSS is for the overall aesthetic of the web based application
 JavaScript functions were used to create the functionaility of adding and deleting tasks onto the To Do List
 
 # Result when the user opens up the application
-![](images/)
+![](images/ToDoListIIThumbnail.jpg)
 # Result when the user adds tasks onto the To Do List
-![](images/)
+![](images/ToDoListIIAddingTasks.jpg)
 # Result when the user toggles the task as complete
-![](images/)
+![](images/ToDoListIICompletingTasks.jpg)
 # Result when the user deletes tasks from the To Do List
-![](images/)
+![](images/ToDoListIIDeleteTasks.jpg)
